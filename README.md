@@ -32,10 +32,6 @@ I am passionate about the fascinating world of **Web Development Programming**!
 
 ## About Me:
 
-**0xClear/0xclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my **Java** skills and learning about **Spring Boot Microservices**.
 - 🌱 I’m currently learning **Java** and **Spring Boot**.
 - 👯 I’m looking to collaborate on projects related to **Java**, **React.js**, or **Web Development**.
