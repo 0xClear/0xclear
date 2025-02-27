@@ -20,21 +20,9 @@ I am passionate about the fascinating world of **Web Development Programming**!
 ## My Daily Activity:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=en" alt="GitHub Streak" /></a>
 
-## My Repositories:
-
-### Public Repositories:
-- [**Java.advanced (Private)**](https://github.com/0xclear/Java.advanced) - A repository where I am improving my Java skills.
-- [**Public Repository 1**](https://github.com/0xclear/public-repo-1) - Description of your public repository.
-- [**Public Repository 2**](https://github.com/0xclear/public-repo-2) - Description of another public repository.
-
-### Private Repositories (only visible to me):
-- [**Private Repo 1**](https://github.com/0xclear/private-repo-1) - A private repository where I work on projects.
-- [**Private Repo 2**](https://github.com/0xclear/private-repo-2) - Another private repository.
-
----
 
 ## About Me:
-<!--
+
 **0xClear/0xclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
