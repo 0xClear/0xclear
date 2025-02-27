@@ -14,12 +14,6 @@ I am passionate about the fascinating world of **Web Development Programming**!
 ## GitHub Stats (All-time):
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xclear&show_icons=true&count_private=true&hide=prs,issues&hide_title=true)
 
-## GitHub Activity Stats (All-time):
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=0xclear)
-
-## My GitHub Streaks (All-time):
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xclear)
-
 ## My Daily Activity:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=en" alt="GitHub Streak" /></a>
 
