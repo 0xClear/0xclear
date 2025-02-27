@@ -11,10 +11,13 @@ I am passionate about the fascinating world of **Web Development Programming**!
 - **Java** | **Spring Boot Microservices**
 - **Oracle** | **AWS** | **Git**
 
-## GitHub Stats:
-![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=0xclear&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## GitHub Stats (All-time):
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xclear&show_icons=true&count_private=true&hide=prs,issues&hide_title=true)
 
-## GitHub Streaks:
+## GitHub Activity Stats (All-time):
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=0xclear)
+
+## My GitHub Streaks (All-time):
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xclear)
 
 ## My Daily Activity:
