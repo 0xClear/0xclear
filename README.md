@@ -1,36 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm 0xClear!
 
-I am passionate about the fascinating world of **Web Development Programming**!
+I’m passionate about **Web Development** and **Java Programming**. Here are some of my popular repositories:
 
-## My Skills:
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=0xclear&layout=compact)
+## My Popular Repositories
 
-## Programming Languages & Technologies:
-- **JavaScript** | **HTML** | **CSS**
-- **React.js** | **Next.js**
-- **Java** | **Spring Boot Microservices**
-- **Oracle** | **AWS** | **Git**
+### 1. [**Photographie**](https://github.com/0xclear/Photographie)
+- **Description**: A photography-related project.
+- **Technologies Used**: SCSS
+- **Visibility**: Public
 
-## GitHub Stats (All-time):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xclear&show_icons=true&count_private=true&hide=prs,issues&hide_title=true)
+### 2. [**GreetDeveloper**](https://github.com/0xclear/GreetDeveloper)
+- **Description**: Configuration files for my GitHub profile.
+- **Technologies Used**: Config files
+- **Visibility**: Public
 
-## My Daily Activity:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=en" alt="GitHub Streak" /></a>
+### 3. [**windowscleaner**](https://github.com/0xclear/windowscleaner)
+- **Description**: A batch file for cleaning Windows systems.
+- **Technologies Used**: Batchfile
+- **Visibility**: Public
 
-## My Repositories:
+### 4. [**ms365_cracked**](https://github.com/0xclear/ms365_cracked)
+- **Description**: Cracked MS365 by Borz (A12).
+- **Technologies Used**: Batchfile
+- **Visibility**: Public
 
-### Public Repositories:
-- [**Java.advanced (Private)**](https://github.com/0xclear/Java.advanced) - A repository where I am improving my Java skills.
-- [**Public Repository 1**](https://github.com/0xclear/public-repo-1) - Description of your public repository.
-- [**Public Repository 2**](https://github.com/0xclear/public-repo-2) - Description of another public repository.
+### 5. [**Portfolio**](https://github.com/0xclear/Portfolio)
+- **Description**: A personal portfolio with an on-page landing.
+- **Technologies Used**: CSS
+- **Visibility**: Public
 
-### Private Repositories (only visible to me):
-- [**Private Repo 1**](https://github.com/0xclear/private-repo-1) - A private repository where I work on projects.
-- [**Private Repo 2**](https://github.com/0xclear/private-repo-2) - Another private repository.
+### 6. [**Borz-dark-Theme**](https://github.com/0xclear/Borz-dark-Theme)
+- **Description**: A custom dark theme for a project.
+- **Technologies Used**: Various (likely CSS/SCSS/JavaScript)
+- **Visibility**: Public
 
 ---
 
 ## About Me:
+<!--
+**0xClear/0xclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my **Java** skills and learning about **Spring Boot Microservices**.
 - 🌱 I’m currently learning **Java** and **Spring Boot**.
@@ -40,7 +50,7 @@ I am passionate about the fascinating world of **Web Development Programming**!
 - 📫 How to reach me: [Twitter](https://twitter.com/0xclear) | [LinkedIn](https://www.linkedin.com/in/0xclear/)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I'm obsessed with **automating everything**!
-
+-->
 
 ---
 
