@@ -31,7 +31,7 @@ I am passionate about the fascinating world of **Web Development Programming**!
 ---
 
 ## About Me:
-<!--
+
 **0xClear/0xclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/0xclear) | [LinkedIn](https://www.linkedin.com/in/0xclear/)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I'm obsessed with **automating everything**!
--->
+
 
 ---
 
