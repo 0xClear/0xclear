@@ -14,8 +14,7 @@ I am passionate about the fascinating world of **Web Development Programming**!
 ## GitHub Stats:
 ![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=0xclear&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-## GitHub Streaks:
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xclear)
+-------
 
 ## My Daily Activity:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=en" alt="GitHub Streak" /></a>
