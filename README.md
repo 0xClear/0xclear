@@ -37,11 +37,6 @@ I am passionate about the fascinating world of **Web Development Programming**!
 - **Technologies Used**: SCSS
 - **Visibility**: Public
 
-### 2. [**GreetDeveloper**](https://github.com/0xclear/GreetDeveloper)
-- **Description**: Configuration files for my GitHub profile.
-- **Technologies Used**: Config files
-- **Visibility**: Public
-
 ### 3. [**windowscleaner**](https://github.com/0xclear/windowscleaner)
 - **Description**: A batch file for cleaning Windows systems.
 - **Technologies Used**: Batchfile
