@@ -28,7 +28,7 @@ I am passionate about the fascinating world of **Web Development Programming**!
 - 👯 I’m looking to collaborate on projects related to **Java**, **React.js**, or **Web Development**.
 - 🤔 I’m looking for help with **advanced Java topics**, such as **multithreading** and **design patterns**.
 - 💬 Ask me about my learning journey in **Java** and **Web Development**.
-- 📫 How to reach me: [Twitter](https://twitter.com/0xclear) | [LinkedIn](https://www.linkedin.com/in/0xclear/)
+- 📫 How to reach me: [E-Mail](mailto:internet.devloper@gmail.com) | [dympulse.de](dympulse.de)
 ---
 ## My Popular Repositories
 
