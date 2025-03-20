@@ -2,10 +2,10 @@
 
 I am passionate about the fascinating world of **Web Development Programming**!
 
-## My Skills:
+## Programming Languages & Technologies:
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=0xclear&layout=compact)
 
-## Programming Languages & Technologies:
+
 - **JavaScript** | **HTML** | **CSS**
 - **React.js** | **Next.js**
 - **Java** | **Spring Boot Microservices**
