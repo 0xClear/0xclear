@@ -5,9 +5,9 @@ I am passionate about **Web Development & Programming**, constantly exploring ne
 ## 🚀 Tech Stack:
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=0xclear&layout=compact)
 
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Frameworks:** React.js, Next.js, Spring Boot (Microservices)  
-- **Databases & Cloud:** Oracle, AWS  
+- **Languages:** Java | JavaScript| HTML | CSS  
+- **Frameworks:** React.js| Next.js | Spring Boot | (Microservices)  
+- **Databases & Cloud:** Oracle | AWS  
 - **Version Control & Tools:** Git, Docker, IntelliJ IDEA, VS Code  
 
 ---
